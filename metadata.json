@@ -1,0 +1,8 @@
+{
+  "name": "Remix Rock God Tycoon - 2D Rock Band Simulation \u0026 Web3 Vault",
+  "description": "Gestiona tu banda de rock desde el garaje hasta estadios mundiales: compone hits legendarios, firma contratos discográficos millonarios, realiza giras mundiales con conciertos en 2D, entrena las habilidades de tus músicos y monetiza tus regalías con retiro en USDC y USDT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
